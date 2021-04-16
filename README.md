@@ -1,6 +1,6 @@
 # Sensitive-Port-Scanner
 ## Aim-
-    A  port  is  a  virtual  location  where  networking  communication  starts  and  ends  (in  a nutshell).   For   a   more   in-depth   explanation,   we   need   to     establish   a   littlebackground information. There are two kinds of network ports on each computer (65,536 of each for a total of 131,082 network ports).
+   A  port  is  a  virtual  location  where  networking  communication  starts  and  ends  (in  a nutshell).   For   a   more   in-depth   explanation,   we   need   to     establish   a   littlebackground information. There are two kinds of network ports on each computer (65,536 of each for a total of 131,082 network ports).
 ## Prerequisite-
     1.)Python 3.7 or above version 
     2.)PIPInstalled 
